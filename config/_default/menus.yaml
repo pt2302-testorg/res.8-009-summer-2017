@@ -1,0 +1,58 @@
+leftnav:
+- identifier: 76f8e098-877f-4c20-91ee-237ebf04a428
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: fa90ef76-a250-4aba-8ed8-829d83de8b1a
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 527a46ca-5795-4125-ae2d-4eab080c11d4
+  name: Instructor Insights
+  pageRef: /pages/instructor-insights
+  weight: 30
+- identifier: 311b8a27-7162-417d-8ab0-db1ce379098f
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: d56984d2-7e01-4ab8-996f-5b9c1bc06672
+  name: Supplementary Notes
+  pageRef: /pages/supplementary-notes
+  weight: 50
+- identifier: f93dca8f-b6e3-4bea-bbd5-2f6b0ebe057b
+  name: Mathematica Codes
+  pageRef: /pages/mathematica-codes
+  weight: 60
+- identifier: dbcef353-5a9c-4fef-a62e-e6157fe67047
+  name: Problem Sets
+  pageRef: /pages/problem-sets
+  weight: 70
+- identifier: bea677be-f33a-4e63-9b2b-adede40fb050
+  name: Exams
+  pageRef: /pages/exams
+  weight: 80
+- identifier: 58c9ea35-4280-46b0-b9b2-0e35388e6dfa
+  name: Teaching in the MITES Summer Program
+  pageRef: /pages/teaching-in-the-mites-summer-program
+  parent: 527a46ca-5795-4125-ae2d-4eab080c11d4
+  weight: 10
+- identifier: 98d11b53-f33e-45ee-b062-3a23498933f8
+  name: Developing the Courses
+  pageRef: /pages/developing-the-courses
+  parent: 527a46ca-5795-4125-ae2d-4eab080c11d4
+  weight: 20
+- identifier: 39482682-7f41-42a9-b73c-66e01412bb43
+  name: Adjusting One's Teaching from Year to Year
+  pageRef: /pages/adjusting-ones-teaching-from-year-to-year
+  parent: 527a46ca-5795-4125-ae2d-4eab080c11d4
+  weight: 30
+- identifier: 6165e2f8-7d40-40ad-96c5-31e2a30b9a86
+  name: The Problem-Solving Problem
+  pageRef: /pages/the-problem-solving-problem
+  parent: 527a46ca-5795-4125-ae2d-4eab080c11d4
+  weight: 40
+- identifier: 080d1fb1-f22c-4ff2-bb4d-466f3c7f78c1
+  name: High School as Preparation for College-Level Science
+  pageRef: /pages/high-school-as-preparation-for-college-level-science
+  parent: 527a46ca-5795-4125-ae2d-4eab080c11d4
+  weight: 50
